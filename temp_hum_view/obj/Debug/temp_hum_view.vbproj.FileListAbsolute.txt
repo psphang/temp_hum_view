@@ -1,0 +1,9 @@
+c:\users\phang\documents\visual studio 2013\Projects\temp_hum_view\temp_hum_view\obj\Debug\temp_hum_view.Resources.resources
+c:\users\phang\documents\visual studio 2013\Projects\temp_hum_view\temp_hum_view\obj\Debug\temp_hum_view.vbproj.GenerateResource.Cache
+c:\users\phang\documents\visual studio 2013\Projects\temp_hum_view\temp_hum_view\bin\temp_hum_view.dll.config
+c:\users\phang\documents\visual studio 2013\Projects\temp_hum_view\temp_hum_view\bin\temp_hum_view.dll
+c:\users\phang\documents\visual studio 2013\Projects\temp_hum_view\temp_hum_view\bin\temp_hum_view.pdb
+c:\users\phang\documents\visual studio 2013\Projects\temp_hum_view\temp_hum_view\bin\temp_hum_view.xml
+c:\users\phang\documents\visual studio 2013\Projects\temp_hum_view\temp_hum_view\obj\Debug\temp_hum_view.dll
+c:\users\phang\documents\visual studio 2013\Projects\temp_hum_view\temp_hum_view\obj\Debug\temp_hum_view.xml
+c:\users\phang\documents\visual studio 2013\Projects\temp_hum_view\temp_hum_view\obj\Debug\temp_hum_view.pdb
